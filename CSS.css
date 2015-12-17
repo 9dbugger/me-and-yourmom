@@ -1,0 +1,56 @@
+.header{background-color:#ffb;}
+ 
+.box{
+background-color:#fff;
+border-radius: 10px;
+box-shadow: 3px 3px 10px 8px #555;
+}
+
+
+body {
+background-color:#003;
+background-image: url("Wall1.jpg");
+color: #000;
+}
+
+.header .container{
+font-family: "Comic Sans", sans-serif;
+font-size: 20px;
+text-align: center;
+line-height: 1.9;
+text-shadow: 10px, 10px, 10px, #aaa;
+}
+
+
+.jumbotron p{
+text-align: center;
+color: #777;
+
+}
+
+.nav{
+background-color: #ddf;
+color: #333;}
+
+.in{
+padding-left:30px;
+padding-top:0px;
+border-left: 20px solid #ff7;
+border-right: 3px solid #ff7;
+border-top: 3px solid #ff7;
+border-bottom: 3px solid #004;
+}
+
+a, a:link, a:visited{
+text-decoration: none;
+color: #faa;
+}
+
+a:hover {
+color:#f00;
+font-size:larger;
+}
+
+.container{
+display: inline;
+}
